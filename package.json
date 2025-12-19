@@ -10,6 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@aws-sdk/client-lex-runtime-v2": "^3.955.0",
+    "@aws-sdk/client-polly": "^3.955.0",
+    "@aws-sdk/client-translate": "^3.955.0",
+    "@aws-sdk/credential-providers": "^3.955.0",
     "@tailwindcss/vite": "^4.1.18",
     "lucide-react": "^0.562.0",
     "react": "^19.2.0",
